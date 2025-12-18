@@ -26,3 +26,6 @@ The algorithm identified 5 distinct customer segments:
 - `Customer_Segmentation.ipynb`: Main code file.
 - `image 1,image 2,image `: Screenshots of the results.
 - `customer segmentation.mp4`: A video demo of the interactive dashboard.
+
+ 
+Note: The 3D Interactive Cluster Map may not render directly in the GitHub preview. Please refer to the Output_Video folder to see the interactive demo in action.
